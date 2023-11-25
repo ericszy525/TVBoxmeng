@@ -44,7 +44,7 @@
     ],
     "sites": [
       {
-            "key": "色窝资源",
+            "key": "影视天堂",
             "name": "影视天堂",
             "type": 1,
             "api": "https://sewozyapi.com/api.php/provide/vod/",
