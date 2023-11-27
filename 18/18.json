@@ -77,13 +77,13 @@
             ]
         },
         {
-            "key": "番外",
-            "name": "番外采集",
+            "key": "色猫",
+            "name": "色猫采集",
             "type": 1,
             "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
             "playUrl": "",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "filterable": 1,
             "categories": [
                 "国产自拍",
