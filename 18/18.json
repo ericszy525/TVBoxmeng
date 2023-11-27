@@ -80,7 +80,7 @@
             "key": "番外",
             "name": "番外采集",
             "type": 1,
-            "api": "http://fhapi9.com/api.php/provide/vod/",
+            "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 0,
