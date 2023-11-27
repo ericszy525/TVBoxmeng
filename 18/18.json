@@ -79,7 +79,7 @@
         {
             "key": "色猫",
             "name": "色猫采集",
-            "type": 1,
+            "type": 2,
             "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
             "playUrl": "",
             "searchable": 1,
@@ -115,16 +115,16 @@
             ]
         },
         {
-            "key": "樱花资源",
-            "name": "樱花资源",
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+            "key": "主页",
+            "name": "主页",
+            "api": "http://iqy.ax88.site/api.php/provide/vod/provide/vod/",
             "download": "",
             "jiexiUrl": "",
             "group": "默认",
             "status": true,
             "isActive": true,
             "type": 1,
-            "id": 18
+            "id": 1
         },
         {
             "key": "TOM资源",
@@ -139,125 +139,95 @@
             "id": 19
         },
         {
-            "key": "闪电资源",
-            "name": "闪电资源",
-            "api": "http://sdzyapi.com/api.php/provide/vod/",
+            "key": "youku",
+            "name": "youku",
+            "api": "https://api.ukuapi.com/api.php/provide/vod/",
             "download": "",
             "jiexiUrl": "",
             "group": "默认",
             "status": true,
             "isActive": true,
            "type": 1,
-            "id": 20
+            "id": 2
         },
         {
-            "key": "FOX资源",
-            "name": "FOX资源",
-            "api": "https://api.foxzyapi.com/api.php/provide/vod/",
+            "key": "七喜",
+            "name": "七喜",
+            "api": "https://7xi.tv/api.php//provide/vod/",
             "download": "",
             "jiexiUrl": "",
             "group": "默认",
             "status": true,
             "isActive": true,
             "type": 1,
-            "id": 21
+            "id": 3
         }, 
         {
-            "key": "红牛资源",
-            "name": "红牛资源",
-            "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+            "key": "土豪",
+            "name": "土豪",
+            "api": "https://www.tuhao.tv/api.php/provide/vod/",
             "download": "",
             "jiexiUrl": "",
             "group": "默认",
             "status": true,
             "isActive": true,
             "type": 1,
-            "id": 22
+            "id": 4
         },        
         {
-            "key": "77韩剧",
-            "name": "77韩剧",
-            "api": "https://www.77hanju.com/api.php/provide/vod/",
+            "key": "官方",
+            "name": "官方",
+            "api": "https://www.zycaiji.net:7788/api.php/provide/vod/",
             "download": "",
-            "jiexiUrl": "",
+            "jiexiUrl": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
             "group": "默认",
             "status": true,
             "isActive": true,
             "type": 1,
-            "id": 23
+            "id": 5
         },
         {
-            "key": "乐活",
-            "name": "乐活",
-            "api": "https://lehootv.com/api.php/provide/vod/",
-            "download": "",
-            "jiexiUrl": "",
-            "group": "默认",
-            "status": true,
-            "isActive": true,
+            "name": "猫影视json",
             "type": 1,
-            "id": 24
-        },
-        {
-            "key": "234影视",
-            "name": "234影视",
-            "api": "https://www.knyu.net/api.php/provide/vod/",
-            "download": "",
-            "jiexiUrl": "",
-            "group": "默认",
-            "status": true,
-            "isActive": true,
-            "type": 1,
-            "id": 25
-        },
-        {
-            "key": "速播",
-            "name": "速播",
-            "api": "https://subocaiji.com/api.php/provide/vod/",
-            "download": "",
-            "jiexiUrl": "",
-            "group": "默认",
-            "status": true,
-            "isActive": true,
-            "type": 1,
-            "id": 26
-        },
-        {
-            "key": "豌豆",
-            "name": "豌豆",
-            "api": " https://ks.wandouzy.cc/api.php/provide/vod/",
-            "download": "",
-            "jiexiUrl": "",
-            "group": "默认",
-            "status": true,
-            "isActive": true,
-            "type": 1,
-            "id": 27
-        },
-        {
-            "key": "蜜蜂",
-            "name": "蜜蜂",
-            "api": "https://www.beeyao.com/api.php/provide/vod/",
-            "download": "",
-            "jiexiUrl": "",
-            "group": "默认",
-            "status": true,
-            "isActive": true,
-            "type": 1,
-            "id": 28
-        },
-        {
-            "key": "超多",
-            "name": "超多",
-            "api": "https://www.ifengying.cn/api.php/provide/vod/",
-            "download": "",
-            "jiexiUrl": "",
-            "group": "默认",
-            "status": true,
-            "isActive": true,
-            "type": 1,
-            "id": 29
-    }
+            "url": "https://jhpc.manduhu.com/j1217.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "企鹅",
+                    "IQiYi",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "YouKu",
+                    "优酷",
+                    "sohu",
+                    "SoHu",
+                    "搜狐",
+                    "letv",
+                    "LeShi",
+                    "乐视",
+                    "imgo",
+                    "mgtv",
+                    "MangGuo",
+                    "芒果",
+                    "SLYS4k",
+                    "BYGA",
+                    "luanzi",
+                    "AliS",
+                    "dxzy",
+                    "bilibili",
+                    "QEYSS",
+                    "xigua",
+                    "西瓜视频",
+                    "腾讯视频",
+                    "奇艺视频",
+                    "优酷视频",
+                    "芒果视频",
+                    "乐视视频"
+                ]
+            }
         
     ],
     "parses": [
